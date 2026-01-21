@@ -1,0 +1,16 @@
+{
+  "name": "portifolio",
+  "version": "0.0.1",
+  "description": "My Portifolio",
+  "license": "ISC",
+  "author": "Victor Augusto Gonçalves Valério",
+  "type": "commonjs",
+  "main": "Server.js",
+"scripts": {
+  "dev": "node server.js"
+}
+,
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
