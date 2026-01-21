@@ -2,7 +2,6 @@
 
 Portfólio pessoal desenvolvido com **Node.js** e **Express**, utilizando **HTML, CSS e JavaScript** puros, com uma estrutura organizada e deploy realizado na **Vercel**.
 
-🔗 **Site online:**  
 [![Preview do site](public/images/preview.png)](https://my-portifolio-89uo1hfeu-vit-ops-projects.vercel.app/)
 
 
